@@ -53,8 +53,8 @@ Make sure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/shopping-cart-app-redux.git
-   cd shopping-cart-app-redux
+   git clone https://github.com/dhatchan96/react-redux-task.git
+   cd react-redux-task
    ```
 
 2. **Install dependencies**:
